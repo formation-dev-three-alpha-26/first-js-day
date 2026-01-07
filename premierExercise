@@ -8,9 +8,9 @@ git add index.html
 //Après avoir ajouté vos fichiers, vous voulez enregistrer les modifications avec un message décrivant le changement. Quelle commande utilisez-vous ?
 git commit -m "message"
 //Vous voulez récupérer un projet existant depuis GitHub pour travailler dessus sur votre ordinateur. Quelle commande utilisez-vous ?
-git pull 
+git clone et lien du projet
 //Si votre dépôt local est derrière la version sur GitHub, quelle commande permet de récupérer les dernières modifications ?
-git remote add nom et lien
+git pull
 
 
 ///
